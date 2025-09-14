@@ -1,4 +1,4 @@
-### Date: 14th September, 2025
+#### Date: 14th September, 2025
 
 
 ##  Simple OCR in Python using EasyOCR
@@ -16,3 +16,6 @@ However, I do require more exploring of the library.
 
 ### References
 **"Simple OCR in Python with easyocr", NeuralNine (2024) [Youtube]**
+
+
+####	Done: 14th September, 2025
